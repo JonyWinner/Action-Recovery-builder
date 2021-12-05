@@ -3,6 +3,7 @@
 支持 OFRP、SHRP、TWRP 编译制作
 ```
 ---
+[![Make Recovery](https://github.com/JonyWinner/Action-Recovery-builder/actions/workflows/Make.yml/badge.svg?branch=main)](https://github.com/JonyWinner/Action-Recovery-builder/actions/workflows/Make.yml)
 
 ## 更新说明
 ```
